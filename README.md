@@ -18,10 +18,10 @@ Pythonで作ったプログラミング言語もどき。<br>
 
 今はWindowsの物、後にUbuntuの物も公開します。<br>
 
-### フィードバック
+## フィードバック
 
 [Twitter](https://twitter.com/Furcht810)
 
-### 共有
+## 共有
 
 [Twitter](https://twitter.com/intent/tweet?text=Fluttol&url=https://github.com/Furcht968/Fluttol&via=Furcht810&hashtags=フルットル)

@@ -1,4 +1,4 @@
-# Fluttol 1.0(サーかば) pre-α
+# Fluttol 1.0(Zalophus californianus) Alpha
 
 ## 説明
 

@@ -18,6 +18,9 @@ Pythonで作ったプログラミング言語もどき。<br>
 
 今はWindowsの物、後にUbuntuの物も公開します。<br>
 
+## YouTube
+[【作ってみた】自作プログラミング言語もどきフルっとるの紹介](https://youtube.com/watch?v=QF7wpwywRcY)
+
 ## フィードバック
 
 [Twitter](https://twitter.com/Furcht810)

@@ -27,4 +27,4 @@ Pythonで作ったプログラミング言語もどき。<br>
 
 ## 共有
 
-[Twitter](https://twitter.com/intent/tweet?text=Fluttol&url=https://github.com/Furcht968/Fluttol&via=Furcht810&hashtags=フルットル)
+[Twitter](https://twitter.com/intent/tweet?text=プログラミング言語もどきFluttol&url=https://github.com/Furcht968/Fluttol&via=Furcht810&hashtags=フルットル)

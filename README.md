@@ -1,9 +1,10 @@
-# Fluttol 1.0(Zalophus californianus) Alpha
+# Fluttol 1.0(Zalophus californianus) Alpha2
 
 ## 説明
 
 Pythonで作ったプログラミング言語もどき。<br>
-別途Pythonとreモジュールが必要となります。<br>
+~~別途Pythonとreモジュールが必要となります。-~~<br>
+両方とも必要なくなりました。<br>
 インストーラで色々弄ってインストールしてください。<br>
 
 ## 内容

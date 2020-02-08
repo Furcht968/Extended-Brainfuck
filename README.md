@@ -25,8 +25,8 @@ PATH登録をしてあげてください<br>
 
 ## フィードバック
 
-[Twitter](https://twitter.com/Furcht810)
+[Twitter](https://twitter.com/Fur_Ryzen5)
 
 ## 共有
 
-[Twitter](https://twitter.com/intent/tweet?text=プログラミング言語もどきFluttol&url=https://github.com/Furcht968/Fluttol&via=Furcht810&hashtags=フルットル)
+[Twitter](https://twitter.com/intent/tweet?text=プログラミング言語もどきFluttol&url=https://github.com/Furcht968/Fluttol&via=Fur_Ryzen5&hashtags=フルットル)
